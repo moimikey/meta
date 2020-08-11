@@ -30,7 +30,7 @@
   "devDependencies": {
     "babel-jest": "18.0.0",
     "enzyme": "2.7.0",
-    "jest": "18.1.0",
+    "jest": "26.3.0",
     "jest-cli": "18.1.0",
     "standard": "8.6.0"
   }
